@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/S07b_Animations.unity
+- path: Assets/Scenes/S03a_camFollowTarget.unity
   isLoaded: 1
   isActive: 1
